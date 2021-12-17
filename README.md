@@ -5,17 +5,14 @@ John Kristian M. Lizarondo							2-BSME
 Juan Paolo C. Balon
 
 	
-Project Proposal:
+Project Title: HANGMAN IN C PROGRAM
+
+Description: 
+Hangman is a quick and easy game for at least two people that requires nothing more than paper, a pencil, and the ability to spell. One player, the "host," makes up a secret word, while the other player tries to guess the word by asking what letters it contains. However, every wrong guess brings them one step closer to losing. Hangman can also be customized to make the game easier, harder, or educational, and there are apps and websites to play online if you would like. For example, try adding in symbols such as # to make the game harder!
 
 
-HANGMAN IN C PROGRAM
+Feature:
+The feature of Hangman in C is that you won't need a paper and pencil to play it because you can now play it in your computer!
 
 
-Hangman Game in C is a simple C program which has been designed to demonstrate different application formats and syntaxes of C programming language. In the game, there is not any use of graphics, user defined function and user defined header file. The most frequently used control statements in this Hangman Game are if() and if()..else sentences as well as iterative statements such as for() loop. The main purpose of the project is to illustrate use of control structures.
-
-
-
-
-https://www.codewithc.com/hangman-game-in-c/
-https://www.codewithc.com/c-projects-with-source-code/
-
+https://www.wikihow.com/Play-Hangman
