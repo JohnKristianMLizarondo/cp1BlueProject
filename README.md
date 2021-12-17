@@ -15,26 +15,6 @@ Hangman Game in C is a simple C program which has been designed to demonstrate d
 
 
 
-IPO CHART:
-
-
-Input
-Player
-
-Process
--Come up with a secret word
--Show Drawing and Blanks to Player
--Ask Player to guess a letter
--Letter is/is not in secret word
--Player guessed/did not guessed the word
--Display Player Guessed the Letter
--Ask Player to Play again
-
-Output
-Player wins/loses
-
-
-
 
 https://www.codewithc.com/hangman-game-in-c/
 https://www.codewithc.com/c-projects-with-source-code/
