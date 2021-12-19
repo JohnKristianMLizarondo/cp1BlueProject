@@ -2,7 +2,7 @@
 
 TEAM BLUE
 John Kristian M. Lizarondo							2-BSME
-Juan Paolo C. Balon
+
 
 	
 Project Title: Guess The Word Game
